@@ -68,13 +68,13 @@ export const works = [
     subTitle: "Valoramos cada segundo de tu tiempo. Reparamos tu iPhone al instante, justo en la comodidad de tu hogar. Olvídate de las filas y las esperas; nos acercamos a ti para garantizar una experiencia sin contratiempos."
   },
   {
-    src: "/Services/repuestos.png",
+    src: "/Desplegabl/repuestos.png",
     alt: "Imange de Repuesto",
     title: "Calidad en repuestos",
     subTitle: "Importamos directamente repuestos de alta calidad. No solo aseguramos la mejor compatibilidad y rendimiento para tu iPhone, también lo hacemos al mejor precio. Calidad y economía, juntas para ti."
   },
   {
-    src: "",
+    src: "/Desplegabl/repuestos.png",
     alt: "Imagen de Garantia",
     title: "Garantia en cada reparación",
     subTitle: "Brindamos garantía de 6 meses a 1 año en todas nuestras reparaciones. Nuestro compromiso es con tu tranquilidad."

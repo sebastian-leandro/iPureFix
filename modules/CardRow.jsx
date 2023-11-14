@@ -18,7 +18,7 @@ const CardRow = ({img,alt,title}) => {
                     />
                 </div>
                 <div className="w-full h-[75%] flex items-center justify-center">
-                    <h3 className="subheading">{title}</h3>
+                    <h3 className="subheading text-center">{title}</h3>
                 </div>
             </div>
         </div>

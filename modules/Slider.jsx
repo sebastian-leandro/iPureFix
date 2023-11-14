@@ -15,7 +15,7 @@ const Slider = () => {
     <div
       className={`max-w-[1200px] relative bg-card-v1 w-full max-h-[450px] h-full rounded-2xl p-[0.1rem] flex overflow-hidden duration-700 text-white`}
     >
-      <div className="w-full h-full bg-tertiary rounded-2xl px-6">
+      <div className="w-full h-full bg-tertiary rounded-2xl flex px-6">
       <button onClick={prevSlide} className="btn-arrow z-50 cursor-pointer duration-500">
         <HiChevronLeft />
       </button>
@@ -32,14 +32,14 @@ const Slider = () => {
             <Image
               src={src}
               alt={alt}
-              className="object-cover rounded-2xl w-full h-full"
+              className="object-cover rounded-3xl w-full h-full"
               fill
               loading="lazy"
             />
           </div>
           <div className="w-full h-full flex flex-col items-center justify-center gap-4">
-            <h3 className="heading">{title}</h3>
-            <p className="paragraph-v1 w-[90%] text-center ">{subTitle}</p>
+            <h3 className="title">{title}</h3>
+            <p className="paragraph w-[90%] text-center ">{subTitle}</p>
           </div>
         </div>
       ))}
