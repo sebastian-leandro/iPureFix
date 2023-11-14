@@ -94,3 +94,8 @@ export const rows = [
     title: "Reparación y cambio de Pantalla"
   },
 ];
+
+
+export const before =[
+  {title: "media",age: 20}
+]
