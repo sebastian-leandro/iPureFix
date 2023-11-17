@@ -11,7 +11,7 @@ const CTA = () => {
               <p className="paragraph">Solicita tu reparación hoy</p>
             </div>
             <div className="flex items-center justify-end mt-8">
-              <Link href={""} className="btn-primary whitespace-nowrap">
+              <Link href={"https://api.whatsapp.com/send?phone=5491160131139"} className="btn-primary whitespace-nowrap">
                 Programa Ahora
               </Link>
             </div>

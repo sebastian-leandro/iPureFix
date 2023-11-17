@@ -16,7 +16,7 @@ const Hero = () => {
           </p>
         </div>
         <div className="w-full h-full gap-y-8 flex-grow flex-col flex justify-end items-center">
-          <Link href={"#services"} className="btn-primary h-fit w-fit">
+          <Link href={"https://api.whatsapp.com/send?phone=5491160131139"} className="btn-primary h-fit w-fit">
             Programa tu reparación
           </Link>
           <Link
