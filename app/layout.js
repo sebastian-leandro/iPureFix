@@ -14,8 +14,8 @@ export const metadata = {
   description: "Reparamos la pantalla y bateria de tu iPhone sin que te muevas de tu casa.",
   keywords: ["iPhone", "Bateria", "Pantalla", "Cambio Bateria", "Cambio Pantalla", "Domicilio", "Reparar", "Modulo", "Apple", "Celulares", "Reparación"],
   author: "iPure Company",
-  url: "https://iPure.com",
-  image: "https://iPure.com/img/logo.png",
+  url: "https://iPureFix.com",
+  image: "https://iPureFix.com/img/logo.png",
 };
 
 export default function RootLayout({ children }) {
