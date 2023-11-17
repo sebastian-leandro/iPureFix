@@ -45,7 +45,7 @@ useEffect(() => {
         ))}
       </ul>
       <div className="w-full hidden md:flex h-full items-center flex-grow justify-end">
-        <Link href={""} className="btn-primary w-fit h-fit">
+        <Link href={"https://api.whatsapp.com/send?phone=5491160131139"} className="btn-primary w-fit h-fit">
           Contactanos
         </Link>
       </div>
