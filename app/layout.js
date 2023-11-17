@@ -16,8 +16,6 @@ export const metadata = {
   author: "iPure Company",
   url: "https://iPureFix.com",
   image: "https://iPureFix.com/img/logo.png",
-  <link rel="icon" href="/path/to/favicon.ico" type="image/x-icon">
-
 };
 
 export default function RootLayout({ children }) {
