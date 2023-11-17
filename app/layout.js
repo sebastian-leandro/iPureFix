@@ -12,7 +12,7 @@ const poppins = Poppins({
 export const metadata = {
   title: "Reparación de iPhone a Domicilio.",
   description: "Reparamos la pantalla y bateria de tu iPhone sin que te muevas de tu casa.",
-  keywords: ["iPhone", "Bateria", "Pantalla", "Cambio Bateria", "Cambio Pantalla", "Domicilio", "Reparar", "Modulo", "Apple", "Celulares" "Reparacion"],
+  keywords: ["iPhone", "Bateria", "Pantalla", "Cambio Bateria", "Cambio Pantalla", "Domicilio", "Reparar", "Modulo", "Apple", "Celulares" "Reparación"],
   author: "iPure Company",
   url: "https://iPure.com",
   image: "https://iPure.com/img/logo.png",
