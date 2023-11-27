@@ -65,13 +65,13 @@ export const works = [
     src: "/Desplegabl/repuestos.png",
     alt: "Imagen de servicio",
     title: "Sin filas ni espera",
-    subTitle: "Valoramos cada segundo de tu tiempo. Reparamos tu iPhone al instante, justo en la comodidad de tu hogar. Olvídate de las filas y las esperas; nos acercamos a ti para garantizar una experiencia sin contratiempos."
+    subTitle: "Valoramos cada segundo de tu tiempo. Reparamos tu iPhone al instante, justo en la comodidad de tu hogar. Olvídate de las filas y las esperas; nos acercamos a ti."
   },
   {
     src: "/Desplegabl/repuestos.png",
     alt: "Imange de Repuesto",
     title: "Calidad en repuestos",
-    subTitle: "Importamos directamente repuestos de alta calidad. No solo aseguramos la mejor compatibilidad y rendimiento para tu iPhone, también lo hacemos al mejor precio. Calidad y economía, juntas para ti."
+    subTitle: "Importamos directamente repuestos de alta calidad. No solo aseguramos la mejor compatibilidad y rendimiento para tu iPhone. Calidad y economía, juntas para ti."
   },
   {
     src: "/Desplegabl/repuestos.png",

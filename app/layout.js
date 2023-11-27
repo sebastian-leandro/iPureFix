@@ -13,9 +13,11 @@ export const metadata = {
   title: "Reparación de iPhone a Domicilio.",
   description: "Reparamos la pantalla y bateria de tu iPhone sin que te muevas de tu casa.",
   keywords: ["iPhone", "Bateria", "Pantalla", "Cambio Bateria", "Cambio Pantalla", "Domicilio", "Reparar", "Modulo", "Apple", "Celulares", "Reparación"],
-  author: "iPure Company",
+  author: "PoderiFy",
   url: "https://iPureFix.com",
-  image: "https://iPureFix.com/img/logo.png",
+  icons: {
+    icon: ['/favicon.ico'],
+  }
 };
 
 export default function RootLayout({ children }) {
@@ -23,8 +25,8 @@ export default function RootLayout({ children }) {
     <html lang="es">
       <body className={poppins.className}>
         <Navbar />
-        <WhatsappIcon />
         {children}
+        <WhatsappIcon />
         <Footer />
       </body>
     </html>

@@ -5,7 +5,7 @@ const CardRow = ({img,alt,title}) => {
 
 
   return (
-    <div className="w-64 md:w-full h-[350px] max-w-[1100px] p-[0.1rem] bg-card rounded-2xl">
+    <div className="w-80 md:w-full h-[350px] max-w-[1100px] p-[0.1rem] bg-card rounded-2xl">
         <div className="w-full h-full bg-tertiary rounded-2xl">
             <div className="w-full flex items-center h-full justify-center flex-col lg:flex-row">
                 <div className="w-full h-full flex relative">
@@ -17,8 +17,8 @@ const CardRow = ({img,alt,title}) => {
                     loading="lazy"
                     />
                 </div>
-                <div className="w-full h-[75%] flex items-center justify-center">
-                    <h3 className="subheading text-center">{title}</h3>
+                <div className="w-full flex items-center justify-center">
+                    <h3 className="subheading my-8 md:my-0 text-center">{title}</h3>
                 </div>
             </div>
         </div>
