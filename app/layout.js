@@ -16,8 +16,11 @@ export const metadata = {
   author: "PoderiFy",
   url: "https://iPureFix.com",
   icons: {
-    icon: ['/favicon.ico'],
-  }
+    icon: ['/logo/favicon.ico?v=4'],
+    apple: ['/logo/apple-touch-icon.png'],
+    shortcut: ['/logo/apple-touch-icon.png']
+  },
+  manifest: '/logo/site.webmanifest'
 };
 
 export default function RootLayout({ children }) {
