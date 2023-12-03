@@ -13,12 +13,12 @@ const CardRow = ({img,alt,title}) => {
                     src={img}
                     alt={alt}
                     fill
-                    className="block rounded-2xl"
+                    className="block rounded-2xl object-cover"
                     loading="lazy"
                     />
                 </div>
-                <div className="w-full flex items-center justify-center">
-                    <h3 className="subheading my-8 md:my-0 text-center">{title}</h3>
+                <div className="w-full h-2/3 px-4 flex items-center justify-center">
+                    <h3 className="titular my-8 md:my-0 text-center">{title}</h3>
                 </div>
             </div>
         </div>

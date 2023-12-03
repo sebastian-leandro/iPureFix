@@ -118,7 +118,7 @@ section {
 }
 
 .titular {
-  font-size: 1.4rem;
+  font-size: 1.7rem;
   font-weight: 600;
   letter-spacing: 0.1rem;
   background-image: linear-gradient(
@@ -307,5 +307,8 @@ section {
   }
   .hero-bg {
     background-attachment: scroll;
+  }
+  .titular {
+    font-size: 1.4rem;
   }
 }
